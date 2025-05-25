@@ -65,7 +65,7 @@ This tutorial series walks through building a Spotify clone from scratch, coveri
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[your-username]/Spotify-clone.git
+git clone https://github.com/adhamhaithameid/Spotify-clone.git
 ```
 
 2. Navigate to the project directory:
