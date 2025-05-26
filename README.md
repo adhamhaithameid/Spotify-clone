@@ -1,12 +1,23 @@
-# Spotify Clone with React + Tailwind
+# Spotify Clone
+- This project is part of the Codveda internship as a Front End Engineer. [Internship Offer Letter](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324392120541151233)
 
-A modern web application clone of Spotify built with React and Tailwind CSS, featuring:
+## Project Overview
+A modern web application clone of Spotify built with React and Tailwind CSS
 
+## Featuring
 - Responsive layout matching Spotify's web player
 - Interactive audio player with playback controls
 - Sidebar navigation and search functionality
 - Global state management with Redux
 - Custom SVG icons and accessible UI components
+
+## Screenshots
+
+### Screen Shot of the Project's Interface
+![Dashboard Screenshot](<Screenshot 2025-05-26 at 4.49.39 PM.png>)
+
+### the Task Requirements
+![Task Requirements](<Front-End Task List-11_page-0001.jpg>)
 
 ## Technology Stack
 
